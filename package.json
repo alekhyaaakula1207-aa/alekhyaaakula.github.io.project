@@ -1,0 +1,12 @@
+{
+  "name": "ai-web-scraper",
+  "version": "1.0.0",
+  "description": "AI-powered web scraping tool with Vercel Speed Insights",
+  "private": true,
+  "scripts": {
+    "postinstall": "echo 'Speed Insights installed'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  }
+}
